@@ -1,0 +1,39 @@
+# The URL the site will be built for
+base_url = "https://www.concreteschaumburg.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "local"
+title = "Schaumburg Concrete | [TODO: Fill in short description] in Illinois"
+description = "[TODO: Fill in longer description]"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+niche = "Concrete"
+heading_image = "MADABimo5OI-cracked-concrete.jpg"
+town = "Schaumburg"
+state = "Illinois"
+sections = false
+phone = "(224) 477-2663"
+services = ["Concrete Leveling","Concrete Polishing","Concrete Pouring","Concrete Removal","Concrete Repair","Concrete Replacement","Concrete Restoration","Concrete Sealer","Mudjacking","Slabjacking",]
+
+location = { town = "schaumburg", state = "illinois", state_id = "il"}
+phone_number = { niche = "concrete", value = "(224) 477-2663", display_value = "", location = { town = "schaumburg", state = "illinois", state_id = "il"}}
+country = "US"
+locations = false
+client = { name = "", address = "" }
+cdn_images_base_path = "tree_trimming__zephyrhills__florida"
+twicpics_id = "7udfuvi8"
+google_ads_tracking_number = ""
+surrounding_areas = []
+google_analytics_id = ""
+google_adwords_id = ""
+google_adwords_form_conversion_id = ""
