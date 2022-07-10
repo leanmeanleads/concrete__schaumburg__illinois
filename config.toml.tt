@@ -1,0 +1,39 @@
+# The URL the site will be built for
+base_url = "https://www.<%= domain %>"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "local"
+title = "<%= titleized(town) %> <%= titleized(niche) %> | [TODO: Fill in short description] in <%= titleized(state) %>"
+description = "[TODO: Fill in longer description]"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+niche = "<%= titleized(niche) %>"
+heading_image = "<%= heading_image %>"
+town = "<%= titleized(town) %>"
+state = "<%= titleized(state) %>"
+sections = false
+phone = "<%= phone_number %>"
+services = [<% services.each do |service| %>"<%= titleized(service) %>",<% end %>]
+
+location = { town = "<%= town %>", state = "<%= state %>", state_id = "<%= state_id %>"}
+phone_number = { niche = "<%= niche %>", value = "<%= phone_number %>", display_value = "", location = { town = "<%= town %>", state = "<%= state %>", state_id = "<%= state_id %>"}}
+country = "US"
+locations = false
+client = { name = "", address = "" }
+cdn_images_base_path = "tree_trimming__zephyrhills__florida"
+twicpics_id = "7udfuvi8"
+google_ads_tracking_number = ""
+surrounding_areas = []
+google_analytics_id = ""
+google_adwords_id = ""
+google_adwords_form_conversion_id = ""

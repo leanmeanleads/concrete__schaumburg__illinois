@@ -1,0 +1,3 @@
+[submodule "themes/local"]
+	path = themes/local
+	url = https://github.com/leanmeanleads/zola-local

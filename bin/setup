@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+git init .
+git submodule add -f git@github.com:leanmeanleads/zola-local.git themes/local
+git add -A
+git commit -m "chore: initial commit"
+hub create -p leanmeanleads/tree_trimming__pittsburg__california
+git push --set-upstream origin main
+netlify sites:create --name tree-trimming-pittsburg-california
+netlify init
+git add -A
+git commit -m "chore: add netlify"
+$(cd ../site_creator; bin/postsetup netlify --niche="tree trimming" --town="pittsburg" --state="california")
+git push && netlify watch
+$(cd ../site_creator; bin/postsetup netlify_forms --niche="tree trimming" --town="pittsburg" --state="california")
+
+echo ""
+echo "Next steps"
+echo "=========="
+echo ""
+echo "IMPORTANT! Make sure the phone number is hooked up to the correct flow in Twilio"
