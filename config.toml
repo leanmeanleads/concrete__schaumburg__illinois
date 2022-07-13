@@ -8,8 +8,8 @@ compile_sass = false
 build_search_index = false
 
 theme = "local"
-title = "Schaumburg Concrete | [TODO: Fill in short description] in Illinois"
-description = "[TODO: Fill in longer description]"
+title = "Schaumburg IL's Top Concrete Contractor | Schaumburg Concrete"
+description = "If you're looking for a quality concrete contractor in Schaumburg, IL, look no further than Schaumburg Concrete. We have years of experience in the industry and can provide you with the best possible service. Contact us today for a free estimate!"
 
 [markdown]
 # Whether to do syntax highlighting
