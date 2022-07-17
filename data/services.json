@@ -1,0 +1,22 @@
+[
+  {
+    "image_path": "images/services/traditional_concrete.jpg",
+    "caption": "Traditional Concrete",
+    "description": "Traditional Concrete"
+  },
+  {
+    "image_path": "images/services/decorative_concrete.jpg",
+    "caption": "Decorative Concrete",
+    "description": "Decorative Concrete"
+  },
+  {
+    "image_path": "images/services/concrete_overlay.jpg",
+    "caption": "Concrete Overlay",
+    "description": "Concrete Overlay"
+  },
+  {
+    "image_path": "images/services/commercial_concrete.jpg",
+    "caption": "Commercial Concrete",
+    "description": "Commercial Concrete"
+  }
+]
