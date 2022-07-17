@@ -29,11 +29,11 @@ location = { town = "schaumburg", state = "illinois", state_id = "il"}
 phone_number = { niche = "concrete", value = "2244772663", display_value = "(224) 477-2663", location = { town = "schaumburg", state = "illinois", state_id = "il"}}
 country = "US"
 locations = false
-client = { name = "", address = "" }
+client = { name = "3D Concrete Design", address = "1000 Lee Street, Des Plaines, IL" }
 cdn_images_base_path = "concrete__schaumburg__illinois"
 twicpics_id = "7udfuvi8"
 google_ads_tracking_number = ""
-surrounding_areas = []
+surrounding_areas = ["Streamwood", "Barlett", "Roselle", "Medinah", "Schnells Corner", "Arlington Heights", "South Barrington", "Rolling Meadows"]
 google_analytics_id = ""
 google_adwords_id = ""
 google_adwords_form_conversion_id = ""
