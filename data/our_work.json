@@ -3,5 +3,8 @@
   { "image_path": "images/our_work/steps.jpg", "caption": "Steps"},
   { "image_path": "images/our_work/overlay.jpg", "caption": "Overlay"},
   { "image_path": "images/our_work/patio.jpg", "caption": "Stamped Patio"},
-  { "image_path": "images/our_work/patio.jpg", "caption": "Stamped Patio"}
+  { "image_path": "images/our_work/garage_floor.jpg", "caption": "Garage Floor"},
+  { "image_path": "images/our_work/slab_pouring.jpg", "caption": "Slab Pouring"},
+  { "image_path": "images/our_work/exposed_aggregate.jpg", "caption": "Exposed Aggregate"},
+  { "image_path": "images/our_work/basement_floor.jpg", "caption": "Basement Floor"}
 ]
