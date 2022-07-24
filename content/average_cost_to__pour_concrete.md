@@ -1,10 +1,10 @@
 +++
-title = "Concrete Pouring"
+title = "Average Cost To Pour"
 path = "/average-cost-to/pour-concrete"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Pouring"
+heading = "Average Cost To Pour"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Pouring") }}
+     background_image_alt="Average Cost To Pour") }}
 
 {{ cta_block(
-     heading="Concrete Pouring",
+     heading="Average Cost To Pour",
      subheading="Get in Touch For Concrete Today!") }}

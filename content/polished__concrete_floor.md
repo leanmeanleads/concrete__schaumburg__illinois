@@ -1,10 +1,10 @@
 +++
-title = "Love Your Floor Again"
+title = "Polished Floor Price"
 path = "/polished/concrete-floor"
 template = "landing_page.html"
 
 [extra]
-heading = "Love Your Floor Again"
+heading = "Polished Floor Price"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Floor Again") }}
+     background_image_alt="Polished Floor Price") }}
 
 {{ cta_block(
-     heading="Love Your Floor Again",
+     heading="Polished Floor Price",
      subheading="Get in Touch For Concrete Today!") }}

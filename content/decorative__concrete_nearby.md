@@ -1,10 +1,10 @@
 +++
-title = "Decorative Concrete"
+title = "Decorative Contractor Near You"
 path = "/decorative/concrete-nearby"
 template = "landing_page.html"
 
 [extra]
-heading = "Decorative Concrete"
+heading = "Decorative Contractor Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Decorative Concrete") }}
+     background_image_alt="Decorative Contractor Near You") }}
 
 {{ cta_block(
-     heading="Decorative Concrete",
+     heading="Decorative Contractor Near You",
      subheading="Get in Touch For Concrete Today!") }}

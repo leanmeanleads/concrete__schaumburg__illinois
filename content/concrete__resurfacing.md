@@ -1,10 +1,10 @@
 +++
-title = "Concrete Restoration"
+title = "Resurfacing Cost"
 path = "/concrete/resurfacing"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Restoration"
+heading = "Resurfacing Cost"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Restoration") }}
+     background_image_alt="Resurfacing Cost") }}
 
 {{ cta_block(
-     heading="Concrete Restoration",
+     heading="Resurfacing Cost",
      subheading="Get in Touch For Concrete Today!") }}

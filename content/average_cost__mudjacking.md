@@ -1,10 +1,10 @@
 +++
-title = "Concrete Mudjacking"
+title = "Average Cost Of Mudjacking"
 path = "/average-cost/mudjacking"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Mudjacking"
+heading = "Average Cost Of Mudjacking"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Mudjacking") }}
+     background_image_alt="Average Cost Of Mudjacking") }}
 
 {{ cta_block(
-     heading="Concrete Mudjacking",
+     heading="Average Cost Of Mudjacking",
      subheading="Get in Touch For Concrete Today!") }}

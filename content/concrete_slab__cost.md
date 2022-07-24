@@ -1,10 +1,10 @@
 +++
-title = "Meet Your Concrete Partner"
+title = "Slab Cost"
 path = "/concrete-slab/cost"
 template = "landing_page.html"
 
 [extra]
-heading = "Meet Your Concrete Partner"
+heading = "Slab Cost"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Meet Your Concrete Partner") }}
+     background_image_alt="Slab Cost") }}
 
 {{ cta_block(
-     heading="Meet Your Concrete Partner",
+     heading="Slab Cost",
      subheading="Get in Touch For Concrete Today!") }}

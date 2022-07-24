@@ -1,10 +1,10 @@
 +++
-title = "Concrete Painting"
+title = "Box Culvert Cost"
 path = "/box-culvert/cost"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Painting"
+heading = "Box Culvert Cost"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Painting") }}
+     background_image_alt="Box Culvert Cost") }}
 
 {{ cta_block(
-     heading="Concrete Painting",
+     heading="Box Culvert Cost",
      subheading="Get in Touch For Concrete Today!") }}

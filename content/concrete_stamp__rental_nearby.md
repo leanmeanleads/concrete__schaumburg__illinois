@@ -1,10 +1,10 @@
 +++
-title = "Stamped Concrete"
+title = "Stamp Rental Near You"
 path = "/concrete-stamp/rental-nearby"
 template = "landing_page.html"
 
 [extra]
-heading = "Stamped Concrete"
+heading = "Stamp Rental Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Stamped Concrete") }}
+     background_image_alt="Stamp Rental Near You") }}
 
 {{ cta_block(
-     heading="Stamped Concrete",
+     heading="Stamp Rental Near You",
      subheading="Get in Touch For Concrete Today!") }}

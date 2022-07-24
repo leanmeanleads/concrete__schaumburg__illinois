@@ -1,10 +1,10 @@
 +++
-title = "Grinding Contractor Near You"
-path = "/concrete/grinding-nearby"
+title = "5 Star Customer Reviewed Concrete Company"
+path = "/best-concrete/company"
 template = "landing_page.html"
 
 [extra]
-heading = "Grinding Contractor Near You"
+heading = "5 Star Customer Reviewed Concrete Company"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Grinding Contractor Near You") }}
+     background_image_alt="Paving Contractor Near You") }}
 
 {{ cta_block(
-     heading="Grinding Contractor Near You",
+     heading="5 Star Customer Reviewed Concrete Company",
      subheading="Get in Touch For Concrete Today!") }}

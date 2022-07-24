@@ -1,10 +1,10 @@
 +++
-title = "Love Your Patio Again"
+title = "Patio Installers Near You"
 path = "/concrete-patio/installers"
 template = "landing_page.html"
 
 [extra]
-heading = "Love Your Patio Again"
+heading = "Patio Installers Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Patio Again") }}
+     background_image_alt="Patio Installers Near You") }}
 
 {{ cta_block(
-     heading="Love Your Patio Again",
+     heading="Patio Installers Near You",
      subheading="Get in Touch For Concrete Today!") }}

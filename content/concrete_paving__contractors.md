@@ -1,10 +1,10 @@
 +++
-title = "Love Your Paver Again"
+title = "Paving Contractor Near You"
 path = "/concrete-paving/contractors"
 template = "landing_page.html"
 
 [extra]
-heading = "Love Your Paver Again"
+heading = "Paving Contractor Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Paver Again") }}
+     background_image_alt="Paving Contractor Near You") }}
 
 {{ cta_block(
-     heading="Love Your Paver Again",
+     heading="Paving Contractor Near You",
      subheading="Get in Touch For Concrete Today!") }}

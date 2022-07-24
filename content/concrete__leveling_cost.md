@@ -1,10 +1,10 @@
 +++
-title = "Concrete Leveling"
+title = "Leveling Cost"
 path = "/concrete/leveling-cost"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Leveling"
+heading = "Leveling Cost"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Leveling") }}
+     background_image_alt="Leveling Cost") }}
 
 {{ cta_block(
-     heading="Concrete Leveling",
+     heading="Leveling Cost",
      subheading="Get in Touch For Concrete Today!") }}

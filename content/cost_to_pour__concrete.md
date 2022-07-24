@@ -1,10 +1,10 @@
 +++
-title = "Love Your Foundation Again"
+title = "Cost To Pour Foundation"
 path = "/cost-to-pour/concrete"
 template = "landing_page.html"
 
 [extra]
-heading = "Love Your Foundation Again"
+heading = "Cost To Pour Foundation"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Foundation Again") }}
+     background_image_alt="Cost To Pour Foundation") }}
 
 {{ cta_block(
-     heading="Love Your Foundation Again",
+     heading="Cost To Pour Foundation",
      subheading="Get in Touch For Concrete Today!") }}

@@ -1,10 +1,10 @@
 +++
-title = "Concrete Finish"
+title = "Refinishing Companies Near You"
 path = "/concrete/refinishing"
 template = "landing_page.html"
 
 [extra]
-heading = "Concrete Finish"
+heading = "Refinishing Companies Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Finish") }}
+     background_image_alt="Refinishing Companies Near You") }}
 
 {{ cta_block(
-     heading="Concrete Finish",
+     heading="Refinishing Companies Near You",
      subheading="Get in Touch For Concrete Today!") }}

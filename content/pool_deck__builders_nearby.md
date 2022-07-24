@@ -1,10 +1,10 @@
 +++
-title = "Love Your Pool Again"
+title = "Pool Deck Builders Near You"
 path = "/pool-deck/builders-nearby"
 template = "landing_page.html"
 
 [extra]
-heading = "Love Your Pool Again"
+heading = "Pool Deck Builders Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -39,8 +39,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Pool Again") }}
+     background_image_alt="Pool Deck Builders Near You") }}
 
 {{ cta_block(
-     heading="Love Your Pool Again",
+     heading="Pool Deck Builders Near You",
      subheading="Get in Touch For Concrete Today!") }}
