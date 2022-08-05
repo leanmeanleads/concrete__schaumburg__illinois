@@ -5,23 +5,23 @@ template = "landing_page.html"
 
 [extra]
 heading = "Sidewalk Contractor Near You"
-subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
+subheading = "Friendly Sidewalk Contractor. Based Near You In Schaumburg, IL. Call Now."
 +++
 
 {{ service_tiles(path="data/services.json") }}
 
 {% left_image_right_text(
      image_path="images/concrete_contractor_for_hire.jpg",
-     image_description="Concrete Contractor in Schaumburg For Hire",
+     image_description="Sidewalk Contractor in Schaumburg For Hire",
      heading="How It Works",
-     intro="A simple process to solve your Concrete problems!") %}
+     intro="A simple process to solve your sidewalk problems!") %}
 
-1. **Inspect** - we visit the property and recommend the solution to your problem
+1. **Inspect** - we visit the property and recommend the solution to your sidewalk problems
 2. **Quote** - provide you with an instant quote
-3. **Book** - schedule the appointment for a day and time that suits you
-4. **Work** - we'll perform the work, leaving you with a much better home
+3. **Book** - schedule the appointment to work on your sidewalk for a day and time that suits you
+4. **Work** - we'll fix your sidewalk, leaving you with a much better property
 5. **Pay** - we accept all major credit cards
-6. **Enjoy** - you've just given your property a new lease of life - time to enjoy it again!
+6. **Enjoy** - you've just given your sidewalk a new lease of life - time to enjoy it again!
 
 {% end %}
 
@@ -43,4 +43,4 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
 
 {{ cta_block(
      heading="Sidewalk Contractor Near You",
-     subheading="Get in Touch For Concrete Today!") }}
+     subheading="Get in Touch For Sidewalk Improvements Today!") }}
