@@ -2,6 +2,7 @@
 title = "Concrete Driveways Near You"
 path = "/concrete/driveway-nearby"
 template = "landing_page.html"
+description = "Call (224) 477-2663 for a great concrete driveway near you. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
 heading = "Concrete Driveways Near You"

@@ -2,6 +2,7 @@
 title = "Sidewalk Contractor Near You"
 path = "/concrete/sidewalk-nearby"
 template = "landing_page.html"
+description = "Call (224) 477-2663 for a sidewalk contractor near you. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
 heading = "Sidewalk Contractor Near You"

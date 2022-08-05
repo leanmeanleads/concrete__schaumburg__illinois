@@ -2,6 +2,7 @@
 title = "Concrete Sealing Near You"
 path = "/concrete/sealing-nearby"
 template = "landing_page.html"
+description = "Call (224) 477-2663 for quality concrete sealing near you. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
 heading = "Concrete Sealing Near You"
