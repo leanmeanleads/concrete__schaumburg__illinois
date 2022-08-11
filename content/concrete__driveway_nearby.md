@@ -1,25 +1,25 @@
 +++
-title = "Concrete Driveways Near You"
+title = "Concrete Driveway Contractor Near You"
 path = "/concrete/driveway-nearby"
 template = "landing_page.html"
-description = "Call (224) 477-2663 for a great concrete driveway near you. We offer competitive rates and excellent service to ensure you get a job well done."
+description = "Call (224) 477-2663 for a residential concrete driveway contractor near you. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Concrete Driveways Near You"
-subheading = "Fully Insured. Friendly Service. Based Near You In Schaumburg, IL. Love Your Concrete Driveway Again. Call Now."
+heading = "Concrete Driveway Contractor Near You"
+subheading = "Fully Insured. Friendly Service. Contractor Based Near You In Schaumburg, IL. Love Your Concrete Driveway Again. Call Now."
 +++
 
 {{ service_tiles(path="data/services.json") }}
 
 {% left_image_right_text(
      image_path="images/concrete_contractor_for_hire.jpg",
-     image_description="Schaumburg Concrete Delivers Concrete Driveways Near You",
+     image_description="Schaumburg Concrete Driveway Contractor Near You",
      heading="How It Works",
-     intro="Fall In Love With Your Driveway Again!") %}
+     intro="Concrete Driveway Contractor Who Can Help You!") %}
 
-1. **Inspect** - we visit the property and recommend the solution to your driveway problem
-2. **Quote** - provide you with an instant quote
-3. **Book** - schedule a driveway improveent appointment for a day and time that suits you
+1. **Inspect** - we visit the property and recommend a solution to your driveway problems
+2. **Quote** - provide you with an instant quote for a brand new driveway
+3. **Book** - schedule a driveway improvement appointment for a day and time that suits you
 4. **Work** - we'll perform the work, leaving you with a brand new lush driveway
 5. **Pay** - we accept all major credit cards
 6. **Enjoy** - you've just given your driveway a new lease of life - time to enjoy it again!
@@ -40,8 +40,8 @@ subheading = "Fully Insured. Friendly Service. Based Near You In Schaumburg, IL.
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Driveway Near You") }}
+     background_image_alt="Concrete Driveway Contractor Near You") }}
 
 {{ cta_block(
-     heading="Concrete Driveways Near You",
-     subheading="Get in Touch For Driveway Improvements Today!") }}
+     heading="Concrete Driveway Contractor Near You",
+     subheading="Get in Touch For A New Driveway Today!") }}
