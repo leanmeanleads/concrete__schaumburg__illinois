@@ -1,21 +1,23 @@
 +++
-title = "Resurfacing Cost"
+title = "Concrete Resurfacing Cost"
 path = "/concrete/resurfacing"
 template = "landing_page.html"
+description = "Call (224) 477-2663 for concrete resurfacing near you. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Resurfacing Cost"
+heading = "Concrete Resurfacing Cost"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 do_not_index = true
+specialism = "repair"
 +++
 
 {{ service_tiles(path="data/services.json") }}
 
 {% left_image_right_text(
      image_path="images/concrete_contractor_for_hire.jpg",
-     image_description="Concrete Contractor in Schaumburg For Hire",
+     image_description="Concrete Resurfacing in Schaumburg",
      heading="How It Works",
-     intro="A simple process to solve your Concrete problems!") %}
+     intro="A simple process to solve your concrete resurfacing problems!") %}
 
 1. **Inspect** - we visit the property and recommend the solution to your problem
 2. **Quote** - provide you with an instant quote
