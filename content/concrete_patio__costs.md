@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for concrete patio costs. We offer competitiv
 [extra]
 heading = "Concrete Patio Costs"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete Patio Costs. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

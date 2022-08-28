@@ -1,0 +1,34 @@
+[
+  {
+    "image_path": "images/our_work/repair/steps_before.jpg",
+    "caption": "Concrete Steps Repair Before"
+  },
+  {
+    "image_path": "images/our_work/repair/steps_after.jpg",
+    "caption": "Concrete Steps Repair After"
+  },
+  {
+    "image_path": "images/our_work/repair/garage_floor_before.jpg",
+    "caption": "Concrete Garage Floor Repair Before"
+  },
+  {
+    "image_path": "images/our_work/repair/garage_floor_after.jpg",
+    "caption": "Concrete Garage Floor Repair After"
+  },
+  {
+    "image_path": "images/our_work/repair/patio_before.jpg",
+    "caption": "Concrete Patio Repair Before"
+  },
+  {
+    "image_path": "images/our_work/repair/patio_after.jpg",
+    "caption": "Concrete Patio Repair After"
+  },
+  {
+    "image_path": "images/our_work/repair/sidewalk_before.jpg",
+    "caption": "Concrete Sidewalk Repair Before"
+  },
+  {
+    "image_path": "images/our_work/repair/sidewalk_after.jpg",
+    "caption": "Concrete Sidewalk Repair After"
+  }
+]

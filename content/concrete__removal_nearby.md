@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for concrete removal near you. We offer compe
 [extra]
 heading = "Concrete Removal Near You"
 subheading = "Remove Your Old Concrete. Fully Insured. Friendly Service. Based in Schaumburg, IL. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

@@ -6,6 +6,8 @@ template = "landing_page.html"
 [extra]
 heading = "Slab Repair Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
+do_not_index = true
+specialism = "repair"
 +++
 
 {{ service_tiles(path="data/services.json") }}

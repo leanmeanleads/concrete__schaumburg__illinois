@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for a sidewalk contractor near you. We offer 
 [extra]
 heading = "Sidewalk Contractor Near You"
 subheading = "Friendly Sidewalk Contractor. Based Near You In Schaumburg, IL. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

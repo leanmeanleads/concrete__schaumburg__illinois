@@ -29,7 +29,6 @@ location = { town = "schaumburg", state = "illinois", state_id = "il"}
 phone_number = { niche = "concrete", value = "2244772663", display_value = "(224) 477-2663", location = { town = "schaumburg", state = "illinois", state_id = "il"}}
 country = "US"
 locations = false
-client = { name = "Dependable Concrete", address = "2N584 Ardmore Ave. Villa Park, IL 60181" }
 cdn_images_base_path = "concrete__schaumburg__illinois"
 twicpics_id = "7udfuvi8"
 google_ads_tracking_number = ""
@@ -37,3 +36,7 @@ surrounding_areas = ["Streamwood", "Barlett", "Roselle", "Medinah", "Schnells Co
 google_analytics_id = ""
 google_adwords_id = ""
 google_adwords_form_conversion_id = ""
+client = { name = "Dependable Concrete", address = "2N584 Ardmore Ave. Villa Park, IL 60181" }
+specialist_clients = [
+  { specialism = "repair", name = "SKV Construction", address = "1900 East Golf Road Suite 950, Schaumburg, IL 60173" },
+]

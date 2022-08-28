@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for concrete leveling near you. We offer comp
 [extra]
 heading = "Concrete Leveling Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Get Your Concrete Leveled. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

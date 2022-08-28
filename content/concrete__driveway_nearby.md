@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for a residential concrete driveway contracto
 [extra]
 heading = "Concrete Driveway Contractor Near You"
 subheading = "Fully Insured. Friendly Service. Contractor Based Near You In Schaumburg, IL. Love Your Concrete Driveway Again. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

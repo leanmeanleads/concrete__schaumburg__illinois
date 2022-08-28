@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for concrete lifting near you. We offer compe
 [extra]
 heading = "Concrete Lifting Near You"
 subheading = "Lift Your Uneven Concrete. Fully Insured. Friendly Service. Based Near You In Schaumburg, IL. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}

@@ -7,6 +7,7 @@ description = "Call (224) 477-2663 for quality concrete sealing near you. We off
 [extra]
 heading = "Concrete Sealing Near You"
 subheading = "Seal Your Concrete Today. Friendly Service. Based in Schaumburg, IL. Call Now."
+do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}
