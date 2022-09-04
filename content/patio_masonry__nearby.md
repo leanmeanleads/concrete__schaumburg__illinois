@@ -1,11 +1,11 @@
 +++
-title = "Love Your Patio Again"
-path = "/stamped/concrete-patio"
+title = "Patio Masonry Near You"
+path = "/patio-masonry/nearby"
 template = "landing_page.html"
-description = "Call 2244772663 - Love Your Patio Again. We offer competitive rates and excellent service to ensure you get a job well done."
+description = "Call 2244772663 - Patio Masonry Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Love Your Patio Again"
+heading = "Patio Masonry Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
@@ -40,8 +40,8 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat con
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Love Your Patio Again") }}
+     background_image_alt="Patio Masonry Near You") }}
 
 {{ cta_block(
-     heading="Love Your Patio Again",
+     heading="Patio Masonry Near You",
      subheading="Get in Touch For Concrete Today!") }}

@@ -1,6 +1,6 @@
 +++
 title = "Love Your Patio Again"
-path = "/stamped/concrete-patio"
+path = "/brick-patio/installers"
 template = "landing_page.html"
 description = "Call 2244772663 - Love Your Patio Again. We offer competitive rates and excellent service to ensure you get a job well done."
 

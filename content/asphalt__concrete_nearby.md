@@ -1,12 +1,12 @@
 +++
-title = "Asphalt Specialist Schaumburg"
+title = "Asphalt And Companies Near You"
 path = "/asphalt/concrete-nearby"
 template = "landing_page.html"
+description = "Call 2244772663 - Asphalt And Companies Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Asphalt Specialist Schaumburg"
+heading = "Asphalt And Companies Near You"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
-do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}
@@ -40,8 +40,8 @@ do_not_index = true
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Asphalt Specialist Schaumburg") }}
+     background_image_alt="Asphalt And Companies Near You") }}
 
 {{ cta_block(
-     heading="Asphalt Specialist Schaumburg",
+     heading="Asphalt And Companies Near You",
      subheading="Get in Touch For Concrete Today!") }}

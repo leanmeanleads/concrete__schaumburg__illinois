@@ -1,29 +1,28 @@
 +++
-title = "Concrete Driveway Contractor Near You"
+title = "Driveway Installers Near You"
 path = "/concrete/driveway-nearby"
 template = "landing_page.html"
-description = "Call (224) 477-2663 for a residential concrete driveway contractor near you. We offer competitive rates and excellent service to ensure you get a job well done."
+description = "Call 2244772663 - Driveway Installers Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Concrete Driveway Contractor Near You"
-subheading = "Fully Insured. Friendly Service. Contractor Based Near You In Schaumburg, IL. Love Your Concrete Driveway Again. Call Now."
-do_not_index = true
+heading = "Driveway Installers Near You"
+subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
 {{ service_tiles(path="data/services.json") }}
 
 {% left_image_right_text(
      image_path="images/concrete_contractor_for_hire.jpg",
-     image_description="Schaumburg Concrete Driveway Contractor Near You",
+     image_description="Concrete Contractor in Schaumburg For Hire",
      heading="How It Works",
-     intro="Concrete Driveway Contractor Who Can Help You!") %}
+     intro="A simple process to solve your Concrete problems!") %}
 
-1. **Inspect** - we visit the property and recommend a solution to your driveway problems
-2. **Quote** - provide you with an instant quote for a brand new driveway
-3. **Book** - schedule a driveway improvement appointment for a day and time that suits you
-4. **Work** - we'll perform the work, leaving you with a brand new lush driveway
+1. **Inspect** - we visit the property and recommend the solution to your problem
+2. **Quote** - provide you with an instant quote
+3. **Book** - schedule the appointment for a day and time that suits you
+4. **Work** - we'll perform the work, leaving you with a much better home
 5. **Pay** - we accept all major credit cards
-6. **Enjoy** - you've just given your driveway a new lease of life - time to enjoy it again!
+6. **Enjoy** - you've just given your property a new lease of life - time to enjoy it again!
 
 {% end %}
 
@@ -34,15 +33,15 @@ do_not_index = true
 
 {{ reviews(
      path="data/reviews.json",
-     heading="Happy Driveway Customers",
+     heading="Happy Customers",
      show_phone_cta=true) }}
 
 {{ contact_form_over_image(
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Driveway Contractor Near You") }}
+     background_image_alt="Driveway Installers Near You") }}
 
 {{ cta_block(
-     heading="Concrete Driveway Contractor Near You",
-     subheading="Get in Touch For A New Driveway Today!") }}
+     heading="Driveway Installers Near You",
+     subheading="Get in Touch For Concrete Today!") }}

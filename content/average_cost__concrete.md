@@ -1,12 +1,12 @@
 +++
-title = "Concrete Leveling"
+title = "Average Cost Of Driveway"
 path = "/average-cost/concrete"
 template = "landing_page.html"
+description = "Call 2244772663 - Average Cost Of Driveway. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Concrete Leveling"
+heading = "Average Cost Of Driveway"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
-do_not_index = true
 +++
 
 {{ service_tiles(path="data/services.json") }}
@@ -40,8 +40,8 @@ do_not_index = true
      heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Leveling") }}
+     background_image_alt="Average Cost Of Driveway") }}
 
 {{ cta_block(
-     heading="Concrete Leveling",
+     heading="Average Cost Of Driveway",
      subheading="Get in Touch For Concrete Today!") }}
