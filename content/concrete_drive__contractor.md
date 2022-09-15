@@ -1,6 +1,6 @@
 +++
 title = "Concrete Driveway Contractor Near You"
-path = "/concrete-paver/contractors"
+path = "/concrete-drive/contractor"
 template = "landing_page.html"
 description = "Call 2244772663 - Concrete Driveway Contractor Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 

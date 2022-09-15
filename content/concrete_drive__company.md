@@ -1,6 +1,6 @@
 +++
 title = "Concrete Driveway Company Near You"
-path = "/concrete-paver/company"
+path = "/concrete-drive/company"
 template = "landing_page.html"
 description = "Call 2244772663 - Concrete Driveway Company Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 
