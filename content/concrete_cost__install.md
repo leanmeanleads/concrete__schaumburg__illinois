@@ -1,11 +1,11 @@
 +++
-title = "Get Cost Of Concrete Driveway"
-path = "/concrete/driveway-cost"
+title = "Cost To Install Concrete Driveway"
+path = "/concrete-cost/install"
 template = "landing_page.html"
-description = "Call 2244772663 - For driveway costs. We offer competitive rates and excellent service to ensure you get a job well done."
+description = "Call 2244772663 - get cost to install concrete driveway. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Cost Of Concrete Driveway"
+heading = "Cost To Install Concrete Driveway"
 subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete Driveways. Call Now."
 +++
 
@@ -15,14 +15,14 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete
      image_path="images/concrete_contractor_for_hire.jpg",
      image_description="Concrete Driveway Costs in Schaumburg",
      heading="How It Works",
-     intro="A simple process to cost out your concrete driveway!") %}
+     intro="A simple process to solve your concrete driveway problems!") %}
 
-1. **Inspect** - we visit the property and recommend the solution to your problem
+1. **Inspect** - we visit the property and recommend a great new concrete driveway
 2. **Quote** - provide you with an instant cost for your driveway
 3. **Book** - schedule the appointment for a day and time that suits you
-4. **Work** - we'll perform the work, leaving you with a much better home
+4. **Work** - we'll perform the work, leaving you with a much better concrete driveway
 5. **Pay** - we accept all major credit cards
-6. **Enjoy** - you've just given your concrete driveway a new lease of life - time to enjoy it again!
+6. **Enjoy** - you've just given your concrete driveway with a new lease of life - time to enjoy it again!
 
 {% end %}
 
@@ -37,11 +37,11 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete
      show_phone_cta=true) }}
 
 {{ contact_form_over_image(
-     heading="Get a Free Driveway Cost Today",
+     heading="Get Cost Of Concrete Driveway Install Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Driveway Cost") }}
+     background_image_alt="Cost For Concrete Driveway Near You") }}
 
 {{ cta_block(
-     heading="Get A Driveway Cost",
-     subheading="Get in Touch For Concrete Driveway Costs Today!") }}
+     heading="Cost To Install Concrete Driveway",
+     subheading="Get in Touch For Cost Of Concrete Driveway Today!") }}

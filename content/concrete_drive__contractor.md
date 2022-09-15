@@ -1,24 +1,24 @@
 +++
-title = "Get Cost Of Concrete Driveway"
-path = "/concrete/driveway-cost"
+title = "Concrete Driveway Contractor Near You"
+path = "/concrete-paver/contractors"
 template = "landing_page.html"
-description = "Call 2244772663 - For driveway costs. We offer competitive rates and excellent service to ensure you get a job well done."
+description = "Call 2244772663 - Concrete Driveway Contractor Near You. We offer competitive rates and excellent service to ensure you get a job well done."
 
 [extra]
-heading = "Cost Of Concrete Driveway"
-subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete Driveways. Call Now."
+heading = "Concrete Driveway Contractor Near You"
+subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Neat concrete. Call Now."
 +++
 
 {{ service_tiles(path="data/services.json") }}
 
 {% left_image_right_text(
      image_path="images/concrete_contractor_for_hire.jpg",
-     image_description="Concrete Driveway Costs in Schaumburg",
+     image_description="Concrete Driveway Contractor in Schaumburg For Hire",
      heading="How It Works",
-     intro="A simple process to cost out your concrete driveway!") %}
+     intro="A simple process to solve your concrete driveway problems!") %}
 
 1. **Inspect** - we visit the property and recommend the solution to your problem
-2. **Quote** - provide you with an instant cost for your driveway
+2. **Quote** - provide you with an instant quote
 3. **Book** - schedule the appointment for a day and time that suits you
 4. **Work** - we'll perform the work, leaving you with a much better home
 5. **Pay** - we accept all major credit cards
@@ -37,11 +37,11 @@ subheading = "Fully Insured. Friendly Service. Based in Schaumburg, IL. Concrete
      show_phone_cta=true) }}
 
 {{ contact_form_over_image(
-     heading="Get a Free Driveway Cost Today",
+     heading="Get a Free Quote Today",
      submit_cta="Get In Touch Now",
      background_image_url="images/get_a_quote.jpg",
-     background_image_alt="Concrete Driveway Cost") }}
+     background_image_alt="Driveway Contractor Near You") }}
 
 {{ cta_block(
-     heading="Get A Driveway Cost",
-     subheading="Get in Touch For Concrete Driveway Costs Today!") }}
+     heading="Driveway Contractor Near You",
+     subheading="Get in Touch For Concrete Driveways Today!") }}
