@@ -11,10 +11,10 @@
 
 Concrete has a number of benefits:
 
--It is a very strong material that can withstand a lot of weight without breaking 
--It is durable and lasts for a long time 
--It is easy to maintain and does not require much upkeep 
--It is environmentally friendly and does not release harmful toxins into the air.
+- It is a very strong material that can withstand a lot of weight without breaking
+- It is durable and lasts for a long time 
+- It is easy to maintain and does not require much upkeep 
+- It is environmentally friendly and does not release harmful toxins into the air
 
 Concrete is a great choice for construction projects because it is so strong and durable. It can withstand a lot of weight and stress without breaking, making it ideal for buildings and other structures. concrete is also easy to maintain, so once it is installed, you won't have to do much to keep it looking good. And because concrete is environmentally friendly, it won't release harmful toxins into the air.
 
